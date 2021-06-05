@@ -3,7 +3,7 @@
 <p align="center">
   <img alt="Tamanho do Repositório" src="https://img.shields.io/github/repo-size/ThiagoOliveiraCordeiro/01-github-explorer?style=for-the-badge">
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/ThiagoOliveiraCordeiro/01-github-explorer?style=for-the-badge">
-  <a href="https://github.com/jeffessongomes">
+  <a href="https://github.com/ThiagoOliveiraCordeiro">
     <img alt="Feito pelo Thiago Oliveira" src="https://img.shields.io/badge/feito%20por-Thiago Oliveira-%237519C1?style=for-the-badge">
   </a>
   <img alt="Licença do Projeto" src="https://img.shields.io/cocoapods/l/m?style=for-the-badge"/>
@@ -65,7 +65,7 @@ $ yarn dev
 
 Feito com ❤️ por Thiago Oliveira 👋🏽 Entre em contato!
 
-[![Linkedin Badge](https://img.shields.io/badge/-Thiago_Oliveira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiago-de-oliveira-cordeiro-32562b1b6/)](https://www.linkedin.com/in/thiago-de-oliveira-cordeiro-32562b1b6/)
+[![Linkedin Badge](https://img.shields.io/badge/-Thiago_Oliveira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ThiagoOliveiraCordeiro/)](https://www.linkedin.com/in/ThiagoOliveiraCordeiro/)
 [![Github Badge](https://img.shields.io/badge/-Thiago_Oliveira-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/ThiagoOliveiraCordeiro)](https://github.com/ThiagoOliveiraCordeiro)
 </div>
 
